@@ -4279,6 +4279,11 @@ get-symbol-description@^1.0.0:
     call-bind "^1.0.2"
     get-intrinsic "^1.1.1"
 
+gk-product-card@^1.0.0-rc:
+  version "1.0.0-rc"
+  resolved "https://registry.yarnpkg.com/gk-product-card/-/gk-product-card-1.0.0-rc.tgz#f81a40445ec361a66fb74ded6546e0edeb828de0"
+  integrity sha512-WHI/q3Iu7tdWupvo58Tkg8W3LIEoVNeswPvtcoPCBB7gK7+fJI4og27hXEs2zAEWV+Hwp7EME6g4DJd1cNjk5Q==
+
 glob-parent@^5.1.2, glob-parent@~5.1.2:
   version "5.1.2"
   resolved "https://registry.yarnpkg.com/glob-parent/-/glob-parent-5.1.2.tgz#869832c58034fe68a4093c17dc15e8340d8401c4"
